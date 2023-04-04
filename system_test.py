@@ -1,7 +1,7 @@
 # Name: Justin Millet
 # ONID Email: milletj@oregonstate.edu
 # Course: CS261 - Data Structures
-# Assignment: Assignment 0: Introduction and Enviroment Setup
+# Assignment: Assignment 0: Introduction and Environment Setup
 # Due Date: April 12th
 # Description: Test to make sure Python 3.7 is installed
 
